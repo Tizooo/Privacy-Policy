@@ -40,3 +40,7 @@ We may collect personal information that you provide directly to us, such as:
 
 **Changes to This Privacy Policy**<br>
 We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically for any changes.
+
+**Contact Information**<br>
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at ticocraftmcpe@gmail.com.
+
