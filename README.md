@@ -34,9 +34,7 @@ We may collect personal information that you provide directly to us, such as:
 - Channel Ids
 - Role Ids
 - Message Ids
-- Any user supplied content that can include text for greetings, reminders, rank cards
-- messages
-- activitys
+- Any user-supplied content, including text for greetings, reminders, rank cards, messages, and activities
 
 **Changes to This Privacy Policy**<br>
 We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically for any changes.
