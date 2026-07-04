@@ -1,17 +1,18 @@
 # Privacy-Policy
-Last Updated: 18.09.2024<br>
-Effective: 18.09.2024
+Last Updated: 04.07.2026<br>
+Effective: 04.07.2026
 
 **Introduction**<br>
 Welcome to Tizo’s Privacy Policy. This document explains how we collect, use, disclose, and protect your personal information when you access or use our services. By using our services, you consent to the data practices described in this Privacy Policy.
 
 **How We Use Your Information**<br>
 We use the information we collect for various purposes, including:
-- To provide and maintain our services
-- To process transactions and send related information
-- To improve our services and user experience
-- To communicate with you, including sending updates and promotional content
-- To monitor and analyze usage and trends
+- To provide and maintain our services.
+- To process transactions and send related information.
+- To improve our services and user experience.
+- To communicate with you, including sending updates and promotional content.
+- To monitor and analyze usage and trends.
+- To detect, filter, and prevent scams, spam, profanity and other abusive content across servers.
 
 **Sharing Your Information**<br>
 We may share your information in the following circumstances:
@@ -32,17 +33,19 @@ To exercise these rights, please contact us using the contact information provid
 
 **Information We Collect**<br>
 We may collect personal information that you provide directly to us, such as:
-- Name
-- Email adress
-- Contact details
-- Payment information (if applicable)
-- User Ids
-- Usernames
-- Server Ids
-- Channel Ids
-- Role Ids
-- Message Ids
-- Any user-supplied content, including text for greetings, reminders, rank cards, messages, and activities
+- Name.
+- Email adress.
+- Contact details.
+- Payment information (if applicable).
+- User Ids.
+- Usernames.
+- Server Ids.
+- Channel Ids.
+- Role Ids.
+- Message Ids.
+- Any user-supplied content, including text for greetings, reminders, rank cards, messages, and activities.
+- message content and image URLs.
+- Perceptual hashes computed from images.
 - generally all data you give us access to.
 
 **Changes to This Privacy Policy**<br>
